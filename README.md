@@ -4,9 +4,8 @@
 
 - 🔭 I’m currently working on **Yii2**
 
-- 🌱 I’m currently learning **Nodejs, React, Vuejs**
+- 🌱 I’m currently learning Front-End, Back-End & more
 
-- 📫 How to reach me **lalipassisbetter@gmail.com**
 
 ### Connect with me:
 <p align="left">
