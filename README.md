@@ -1,4 +1,4 @@
-# Hi I'm Lalipass. :bowtie: Welcome to my github profile.
+# Hi I'm Lalipass. :cat: Welcome to my github profile.
 
 ### Fullstack developer from Thailand
 
